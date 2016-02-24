@@ -1,0 +1,18 @@
+{
+    "contents" : "numOfDays = 7\nnumOfWeeks = 52\npayRate = 500\ntotP = numOfDays*numOfWeeks*payRate\nprint(totP)\n",
+    "created" : 1456273056945.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1832371877",
+    "id" : "23CE9B6D",
+    "lastKnownWriteTime" : 1456273366,
+    "path" : "~/Data Science Class Coursera/Git_project/Test.R",
+    "project_path" : "Test.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
